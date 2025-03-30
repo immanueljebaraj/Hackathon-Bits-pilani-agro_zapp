@@ -6,7 +6,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   height: 100vh;
   /* background: linear-gradient(aliceblue, #F0F3FF); */
-  background-image: url("./assets/background-1.png");
+  background-image: url("./assets/background-1.png") no-repeat center
+    center/cover;
 }
 
 code {

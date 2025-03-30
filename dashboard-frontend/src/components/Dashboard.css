@@ -5,6 +5,8 @@ body {
   font-family: "Arial", sans-serif;
   /* background: linear-gradient(135deg, #f5f7fa, #c3cfe2); */
   min-height: 100vh;
+  background: url("./Green Floral Background Flyer.png") no-repeat center
+    center/cover;
 }
 
 /* User Profile */
